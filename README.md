@@ -149,7 +149,7 @@ Parámetros técnicos configurados en OBS Studio para la transmisión hacia la m
 
 > *Ventana de configuración de OBS con la URL del servidor y la clave de transmisión `haven.local`.*
 
-![Configuración de emisión en OBS Studio](assets/02-obs-configuracion-emision.png)
+![Configuración de emisión en OBS Studio](assets/04-obs-configuracion-emision.png)
 
 
 
@@ -177,7 +177,7 @@ ffmpeg -re -i video.mp4 \
 
 > *Terminal con FFmpeg transmitiendo el vídeo y VLC reproduciéndolo en tiempo real mediante la URL de red.*
 
-![FFmpeg transmitiendo y VLC reproduciendo](assets/03-ffmpeg-vlc-reproduccion.png)
+![FFmpeg transmitiendo y VLC reproduciendo](assets/04-obs-vlc-simultaneo.png )
 
 ---
 
@@ -195,7 +195,7 @@ Se confirmó la **recepción sincronizada de audio y vídeo** procesado por el s
 
 > *Vista final: OBS Studio transmitiendo en directo y VLC reproduciéndolo simultáneamente a través del servidor NGINX-RTMP.*
 
-![OBS transmitiendo y VLC reproduciendo simultáneamente](assets/04-obs-vlc-simultaneo.png)
+![OBS transmitiendo y VLC reproduciendo simultáneamente](assets/03-ffmpeg-vlc-reproduccion.png )
 
 
 
