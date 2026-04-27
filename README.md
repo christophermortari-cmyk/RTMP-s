@@ -127,7 +127,7 @@ sudo systemctl status nginx
 
 > *Terminal mostrando la IP del servidor `192.168.1.149` y el servicio NGINX activo.*
 
-![Servidor NGINX activo con IP asignada](assets/01-nginx-ip-activo.png)
+![Servidor NGINX activo con IP asignada](assets/image.png)
 
 
 
