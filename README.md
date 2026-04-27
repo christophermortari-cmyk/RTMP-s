@@ -149,7 +149,7 @@ Parámetros técnicos configurados en OBS Studio para la transmisión hacia la m
 
 > *Ventana de configuración de OBS con la URL del servidor y la clave de transmisión `haven.local`.*
 
-![Configuración de emisión en OBS Studio](assets/04-obs-configuracion-emision.png)
+![Configuración de emisión en OBS Studio](assets/02-obs-configuracion-emision.png)
 
 
 
